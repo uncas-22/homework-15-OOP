@@ -3,10 +3,10 @@ import java.util.concurrent.Callable;
 public class Main {
     public static void main(String[] args) {
 
-        Human maksim = new Human("Максим", 1988, "Ижевск", "бренд-менеджером");
-        Human anna = new Human("Аня", 1993, "Москва", "методистом образовательных программ");
-        Human katya = new Human("Катя", -1992, "Калининград", "продакт-менеджером");
-        Human artem = new Human("Артем", -1995, "Москв", "Диретором по развитию бизнеса");
+        Human maksim = new Human("Максим", 1988, "Ижевск", "бренд-менеджера");
+        Human anna = new Human("Аня", 1993, "Москва", "методиста образовательных программ");
+        Human katya = new Human("Катя", -1992, "Калининград", "продакт-менеджера");
+        Human artem = new Human("Артем", -1995, "Москв", "Директора по развитию бизнеса");
 
         System.out.println(maksim);
         System.out.println(anna);

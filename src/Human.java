@@ -41,6 +41,6 @@ public class Human {
 
     @Override
     public String toString() {
-        return "Привет! Меня зовут " + getName() + ". Я из города " + getTown() + ". Я родился " + getYearOfBirth() + " в году. Я работаю на должности: " + getJobTitle() + ". Будем знакомы!";
+        return "Привет! Меня зовут " + getName() + ". Я из города " + getTown() + ". Я родился " + getYearOfBirth() + " в году. Я работаю в должности: " + getJobTitle() + ". Будем знакомы!";
     }
 }
